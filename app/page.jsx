@@ -12,7 +12,7 @@ export default function Home() {
           loop
           playsInline
           className="sm:w-full w-fit sm:max-w-full max-w-fit  h-[450px] sm:h-auto"
-          src="/公勝球賽前導片%20Fa.mp4" poster="https://golf.goldennet.com.tw/og.png"
+          src="../public/公勝球賽前導片 Fa.mp4" poster="https://golf.goldennet.com.tw/og.png"
         ></video>
         <Image
           src={Wave}
