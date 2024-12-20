@@ -18,7 +18,7 @@ export default function Home() {
           src={Wave}
           alt="kv"
           priority
-          className="w-[100vw] h-fit absolute sm:bottom-[-8px] bottom-[-2px] left-0"
+          className="w-full h-fit absolute sm:bottom-[-8px] bottom-[-2px] !left-0"
           width={1440}
           height={115}
         />
