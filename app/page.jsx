@@ -18,7 +18,7 @@ export default function Home() {
           src={Wave}
           alt="kv"
           priority
-          className=" absolute sm:bottom-[-8px] bottom-[-2px] !left-0 px-0"
+          className=" absolute sm:bottom-[-8px] bottom-[-2px] !left-0 px-0 mx-0"
         />
       </section>
     </main>
