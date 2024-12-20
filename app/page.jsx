@@ -11,7 +11,6 @@ export default function Home() {
           autoPlay
           loop
           playsInline
-          muted
           className="sm:w-full w-fit sm:max-w-full max-w-fit  h-[450px] sm:h-auto"
           src="https://golf.goldennet.com.tw/%E5%85%AC%E5%8B%9D%E7%90%83%E8%B3%BD%E5%89%8D%E5%B0%8E%E7%89%87_FA.mp4"
         ></video>
