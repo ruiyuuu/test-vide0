@@ -12,7 +12,7 @@ export default function Home() {
           loop
           playsInline
           className="sm:w-full w-fit sm:max-w-full max-w-fit  h-[450px] sm:h-auto"
-          src="https://test-vide0.vercel.app/%E5%85%AC%E5%8B%9D%E7%90%83%E8%B3%BD%E5%89%8D%E5%B0%8E%E7%89%87%20Fa.mp4" poster="https://golf.goldennet.com.tw/og.png"
+          src="/公勝球賽前導片%20Fa.mp4" poster="https://golf.goldennet.com.tw/og.png"
         ></video>
         <Image
           src={Wave}
