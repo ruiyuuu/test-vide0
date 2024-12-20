@@ -8,7 +8,7 @@ export default function Home() {
         <video
           width="522"
           height="295"
-          autoPlay
+          autoPlay controls
           loop
           playsInline
           className="sm:w-full w-fit sm:max-w-full max-w-fit  h-[450px] sm:h-auto"
