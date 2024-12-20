@@ -12,7 +12,7 @@ export default function Home() {
           loop
           playsInline
           className="sm:w-full w-fit sm:max-w-full max-w-fit  h-[450px] sm:h-auto"
-          src="/video.mp4" poster="https://golf.goldennet.com.tw/og.png"
+          src="https://test-vide0.vercel.app/video.mp4" poster="https://golf.goldennet.com.tw/og.png"
         ></video>
         <Image
           src={Wave}
